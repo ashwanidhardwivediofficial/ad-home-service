@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 110" role="img" aria-label="AD Home Service logo">
+<defs>
+  <linearGradient id="roof" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#1761c5"/><stop offset="1" stop-color="#102d5b"/>
+  </linearGradient>
+  <linearGradient id="orange" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#ffad55"/><stop offset="1" stop-color="#f47728"/>
+  </linearGradient>
+</defs>
+<path d="M18 48 80 7l62 41" fill="none" stroke="url(#roof)" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M31 43v54h98V43" fill="#eef5ff" stroke="#1761c5" stroke-width="5" stroke-linejoin="round"/>
+<path d="M45 87 65 39h12l21 48H84l-4-11H61l-4 11z" fill="#1761c5"/>
+<path d="m65 65 7-17 7 17z" fill="#fff"/>
+<path d="M94 39h12c17 0 26 9 26 24s-9 24-26 24H94V75h11c7 0 11-4 11-12s-4-12-11-12H94z" fill="url(#orange)"/>
+<path d="M19 91c20 13 43 15 65 8 20-6 38-6 57 1" fill="none" stroke="url(#orange)" stroke-width="6" stroke-linecap="round"/>
+<path d="M11 61c-3-9 1-18 10-22 1 9 0 16-6 22M17 69c-1-9 5-16 14-18-1 9-5 15-14 18" fill="#35a853"/>
+<rect x="73" y="15" width="14" height="11" rx="1" fill="#ff963f"/>
+<path d="M80 15v11M73 20h14" stroke="#fff" stroke-width="2"/>
+</svg>
